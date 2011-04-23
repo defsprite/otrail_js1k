@@ -29,7 +29,7 @@ with (a) {
     bC(40, -Q, 40, 20, 5, Q);
     f4();
     re();
-  }
+  };
 
   I = setInterval(function() {
     s4();
